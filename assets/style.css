@@ -36,7 +36,7 @@ header {
     padding: 15px 50px 10px;
     background-color: #000000;
     background-size: cover;
-    background-image: linear-gradient(rgba( 0, 0, 0, 0.5),rgba( 0, 0, 0, 0.5)), url('assets/header-background4.jpg');*
+    background-image: linear-gradient(rgba( 0, 0, 0, 0.5),rgba( 0, 0, 0, 0.5)), url('image/header-background4.jpg');*
     background-repeat: no-repeat;
     background-position:0 239px;
     height: auto;
@@ -62,7 +62,7 @@ header nav li:last-child {
 .jumbotron{
     width: 100%;
     background-color: #00c8eb;
-    background: linear-gradient(rgba( 0, 0, 0, 0.5),rgba( 0, 0, 0, 0.5)), url('assets/header-background4.jpg');*
+    background: linear-gradient(rgba( 0, 0, 0, 0.5),rgba( 0, 0, 0, 0.5)), url('image/header-background4.jpg');*
     background-repeat: no-repeat;
     font-size:40px;
     padding: 100px;
@@ -97,7 +97,7 @@ ul.konten-tentang{
 
 .tentang-kiri{
     flex-basis: 40%;
-    background-image: url(assets/tentang.jpg);
+    background-image: url(image/tentang.jpg);
 }
 
 .tentang-kanan{
@@ -125,19 +125,19 @@ ul.kontenKegiatan{
 }
 
 .kajianImg{
-    background-image: url(assets/kajian.jpg);
+    background-image: url(image/kajian.jpg);
     background-position: bottom;
 }
 .olahRagaImg{
-    background-image: url(assets/olahRaga.jpg);
+    background-image: url(image/olahRaga.jpg);
     background-position: bottom;
 }
 .kopiImg{
-    background-image: url(assets/kopi.jpg);
+    background-image: url(image/kopi.jpg);
     background-position: bottom;
 }
 .ceramahImg{
-    background-image: url(assets/ceramah.jpg);
+    background-image: url(image/ceramah.jpg);
     background-position: bottom;
 }
 
@@ -175,7 +175,7 @@ ul.konten-fasilitas{
 
 .fasilitas-kiri{
     flex-basis: 40%;
-    background-image: url(assets/tentang.jpg);
+    background-image: url(image/tentang.jpg);
     padding: 20px;
     height: 290px;
     background-clip: content-box;
@@ -216,7 +216,7 @@ footer {
 .closing{
     width: 100%;
     background-color: #00c8eb;
-    background: linear-gradient(rgba( 0, 0, 0, 0.5),rgba( 0, 0, 0, 0.5)), url('assets/asideback.jpg');*
+    background: linear-gradient(rgba( 0, 0, 0, 0.5),rgba( 0, 0, 0, 0.5)), url('image/asideback.jpg');*
     background-repeat: no-repeat;
     font-size:40px;
     padding: 20px;
